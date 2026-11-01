@@ -1,6 +1,6 @@
 //This is the main class of the program
 
-public class Exe3Comment {
+public class Exe03Comment {
 //This defines the method where program execution starts
     public static void main(String[] args) {
         //This line prints the message on the screen
